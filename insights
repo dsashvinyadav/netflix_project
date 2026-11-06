@@ -1,0 +1,22 @@
+# Netflix Data Analysis – Key Insights
+
+## 1. Content Distribution
+Analysis of Movies and TV Shows distribution.
+
+## 2. Release Year Analysis
+Explored content release trends over different years.
+
+## 3. Country Analysis
+Analyzed content distribution across different countries.
+
+## 4. Duration Analysis
+Explored movie durations and TV Show seasons.
+
+## 5. Missing Values
+Identified missing values in columns such as country, cast, and director.
+
+## 6. Correlation Analysis
+Studied relationships between numerical features.
+
+## Conclusion
+The analysis helped understand Netflix content trends through data cleaning, exploratory data analysis, and visualization.
